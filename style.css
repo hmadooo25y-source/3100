@@ -104,8 +104,8 @@ body {
 .balance-line-container-left {
     display: flex; justify-content: flex-end; align-items: baseline; color: #000; gap: 8px;
 }
-.amount-number-system { font-family: Arial, sans-serif; font-size: 48px; font-weight: 300; }
-.currency-label-thin { font-size: 38px; font-weight: 300; }
+.amount-number-system { font-family: Arial, sans-serif; font-size: 48px; font-weight: 200; }
+.currency-label-thin { font-size: 38px; font-weight: 250; }
 
 .info-strip-row {
     background-color: #f7f7f7;
