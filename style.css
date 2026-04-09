@@ -9,7 +9,6 @@ input:focus, button:focus, .service-card:focus {
     box-shadow: none !important;
 }
 
-d32f2f
 /* ===================== عام ===================== */
 * {
     margin: 0;
@@ -866,7 +865,7 @@ body {
 .acc-col-desc { width: 50%; text-align: center !important; line-height: 1.4; }
 .acc-col-amount { width: 25%; text-align: left !important; padding-left: 15px !important; font-weight: bold; direction: ltr; }
 
-.acc-statement-table td.acc-col-amount { color: #d32f2f !important; }
+.acc-statement-table td.acc-col-amount { color: #555 !important; }
 
 .acc-en-text {
     direction: ltr;
